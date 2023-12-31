@@ -6,7 +6,7 @@ The result of this project will be a comprehensive and user-friendly solution fo
 
 **BATCH : DW73DW74**
 
-**PROJECT : 2**
+**GUVI PROJECT : 2**
 
 ## Skills take away From This Project ##
 
